@@ -1,6 +1,6 @@
 ## Example Lifecycle Method in React
 
-**Berikut** adalah beberapa perbedaan spesifik dari masing - masing dari **Lifecycle Method** yang ada pada `React Js`, semoga dapat membantu anda untuk memahami apa itu **Lifecycle Method** pada `React Js` khususnya untuk pemula.
+**Berikut** adalah beberapa perbedaan spesifik dari masing - masing **Lifecycle Method** yang ada pada `React Js`, semoga dapat membantu anda untuk memahami apa itu **Lifecycle Method** pada `React Js` khususnya untuk pemula.
 
 #### Cara Menjalankan Aplikasi:
 
